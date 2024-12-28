@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://i.pinimg.com/736x/63/64/d5/6364d5f63719aa4979d992174f654bd6.jpg">
+</p>
 <h1 align="center">Hi 👋, I'm Michael Christianto</h1>
 <h3 align="center">I am a student majoring in informatics and I am very interested in AI and IoT</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/4I9G.gif">
